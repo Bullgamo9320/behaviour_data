@@ -1,5 +1,6 @@
 # behaviour_data
-MANAとSANDの行動データを載せています
+MANAとSANDの行動データを載せています.
+Codeボタンを押すと、整理された2022-05-13のデータが出てきます。
 
 date	symbol	end_holding	highest_element	z_buy	z_leave	z_stay
 2022-05-13	MANA	0	stay	-0.419176671	-0.403760089	0.468512367
